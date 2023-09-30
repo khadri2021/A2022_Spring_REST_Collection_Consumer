@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "1ab1d0b8-00da-4ee8-b970-638be25b812e",
+		"name": "A2022_Spring_REST_Collection_Consumer",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29781038"
+	},
+	"item": [
+		{
+			"name": "view student",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/A2022_Spring_REST_Collection_Consumer/view/student",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"A2022_Spring_REST_Collection_Consumer",
+						"view",
+						"student"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
